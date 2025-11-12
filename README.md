@@ -39,5 +39,5 @@ Para manter o código organizado e fácil de ler, a lógica foi separada do flux
 ## 🚀 Como Executar
 
 1.  **Ambiente:** Utilize um interpretador de Portugol como o [VisualG](httpsa://visualg3.com.br/) ou o [Portugol Studio](https://portugol-studio.github.io/).
-2.  **Download:** Copie o código do arquivo `Calculador_de_Media_Melhorado.alg`.
+2.  **Download:** Copie o código do arquivo.
 3.  **Executar:** Abra o arquivo no interpretador e inicie a execução (normalmente com `F9`).
